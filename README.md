@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hey! I’m Soumyadeep
+🚀 ECE Student | ML & AI Enthusiast | Data Explorer
 
-<!--
-**Okpiyiii/Okpiyiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building smart models, spotting patterns in data, and creating projects that mix curiosity with clean code.
+This repo is a quick snapshot of my work, my learning journey, and the things I’m excited to build next ✨
 
-Here are some ideas to get you started:
+🧠 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Machine Learning & AI projects
+
+📊 Data analysis & visualizations
+
+🛠️ Python-based experiments
+
+🔍 Exploring predictive modeling & anomaly detection
+
+💡 What I’m Learning
+
+Always improving my skills in ML, statistics, Python, and real-world problem solving — one project at a time ⚡
+
+📁 What You’ll Find Here
+
+Clean, well-structured project folders
+-Readable notebooks & code
+
+Mini-experiments that show how I think and work
+
+🌟 Let’s Connect
+
+Open to internships, collaborations, and cool ideas!
+
+
