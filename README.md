@@ -1,3 +1,4 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 👋 Hey! I’m Soumyadeep
 🚀 ECE Student | ML & AI Enthusiast | Data Explorer
 
