@@ -65,18 +65,9 @@ I am an Electronics and Communication Engineering student with a deep passion fo
 ---
 ### 📊 GitHub Stats & Contribution Matrix
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Okpiyiii&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Okpiyiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/Okpiyiii/Okpiyiii/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
@@ -90,6 +81,19 @@ I am an Electronics and Communication Engineering student with a deep passion fo
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 </div>
+
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/Okpiyiii/Okpiyiii/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Okpiyiii&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+
 ---
 <div align="center">
 ### 🌐 Connect with Me
@@ -98,7 +102,6 @@ I am an Electronics and Communication Engineering student with a deep passion fo
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/soumya8)
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyadeeppal4211@gmail.com)
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Okpiyiii&icon=0&color=0)
 
 </div>
 
