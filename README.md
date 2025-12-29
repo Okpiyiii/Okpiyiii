@@ -66,9 +66,6 @@ I am an Electronics and Communication Engineering student with a deep passion fo
 ### 📊 GitHub Stats & Contribution Matrix
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Okpiyiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
-</div>
 
 <div align="center">
   <br>
