@@ -3,6 +3,7 @@
   <h1>Hi there, I'm Soumyadeep</h1>
 </div>
 
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=ECE+Student+%7C+ML+%26+AI+Enthusiast;Data+Explorer+%7C+Pattern+Spotter;Building+Smart+Models;Curiosity+mixed+with+Clean+Code" alt="Typing SVG" />
