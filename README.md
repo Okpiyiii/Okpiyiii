@@ -69,10 +69,6 @@ I am an Electronics and Communication Engineering student with a deep passion fo
 
 
 
-<div align="center">
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Okpiyiii&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
-</div>
 
 <div align="center"><br/>
   ### ✍️ Random Dev Quote
